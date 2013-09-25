@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FoundWorkingCopyPaths</key>
+	<array>
+		<string>/Users/apple/Desktop/untitled folder/My first facebook app</string>
+	</array>
+	<key>LastWorkingCopyScanDate</key>
+	<date>2013-09-20T04:11:34Z</date>
+	<key>MissingFilePaths</key>
+	<array>
+		<string>/Volumes/NO NAME/lock.png</string>
+		<string>/Volumes/NO NAME/part3.png</string>
+		<string>/Volumes/NO NAME/email.png</string>
+		<string>/Volumes/NO NAME/part4.png</string>
+		<string>/Volumes/NO NAME/part5.png</string>
+		<string>/Volumes/NO NAME/ship.png</string>
+		<string>/Volumes/NO NAME/user.png</string>
+		<string>/Volumes/NO NAME/wel_button.png</string>
+	</array>
+	<key>Version</key>
+	<integer>4</integer>
+</dict>
+</plist>
